@@ -1,0 +1,78 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title> Desiree's Resume</title>
+    
+  </head>
+  
+  <Body>
+    <h1><strong>Desiree MealeyVasquez</strong></h>
+      <p> 3836 Newton Ave<br>
+      San Diego, CA 92113<br>
+      714.402.8811<br>
+      dez_essc@yahoo.com</p>
+      
+    <hr>
+    <h2>Career Objective</h2>
+      <p>To secure an adventurous position within the technolgy industry where<br>
+      my skills, education, and expertise can be utilized, as well as expanded</p>
+      
+      
+    <hr>
+    <h2>Work History<//h2>
+    <p>2017 - present<strong>San Diego Retina Associates</strong>, San Diego, CA<br>
+      <em>Medical Biller</em></p>
+      <li><a href="https://sdretina.com/"</a></li>
+      <ul>
+        <li>Accounts receivables</li>
+        <li>Claims posting and processing to clearing house</li>
+        <li>Posting insurance and patient payments into PM system</li>
+        <li>Research billing guidelines and protocols</li>
+        <li>Provide customer service to patients both in persona and over the phones</li>
+        <li>Navigate EMR systems and PM Systems for reprot purposes</li>
+        <li>Assist in any back-end edits necessary to develop clean processes</li>
+        <li>Work various projects as assigned</li>
+        <li>Communicate with Physicians, managers, clinic and all other departments</li>
+      </ul>
+     <p>2011 - 2017<strong>cCARE</strong>, San Diego, CA<br>
+      <em>Senior Billing Specialist</em></p>
+      <li><a href="https://ccare.com//"</a></li>
+      <ul>
+        <li>Claim entry for chemotherapy, radiation, urology, and radiology</li>
+        <li>Claims processing to clearing house</li>
+        <li>Posting insurance and patient payments into PM system</li>
+        <li>Research billing guidelines and protocols</li>
+        <li>Provide customer service to patients over the phones</li>
+        <li>Navigate drug cabinet systems, EMR systems and PM Systems for reprot purposes</li>
+        <li>Assist in any back-end edits necessary to develop clean processes</li>
+        <li>Audit charge entry to ensure accuracy</li>
+        <li>Work various projects as assigned</li>
+        <li>Train new staff and active employees on system navigation</li>
+        <li>Work Accounts receivables</li>
+        <li>Communicate with Physicians, managers, clinic and all other departments</li>
+      </ul>
+     <p>2010 - 2011<strong>United Cerebral Palsy</strong>, San Diego, CA<br>
+      <em>Personal Development Coach</em></p>
+      <li><a href="https://ucp.org/"</a></li>
+      <ul>
+        <li>Support persons with physical and intellectual disabilities in the community</li>
+        <li>Ensure documentaiton of daily activity and events</li>
+        <li>Develop volunteer opportunities within the community for daily activities</li>
+        <li>Teach life skills, working skills, schedule management, and social interaction</li>
+        <li>Assist in developing individuals goal plans</li>
+        <li>Assist in any back-end edits necessary to develop clean processes</li>
+      </ul>  
+    
+    <hr>
+    <h2>Education<//h2>
+    <p><strong>Grand Canyon University;</strong> Bachelors of Science Information Technology<br>
+      Phoenix, AZ</p>
+    <p><strong>UEI College;</strong> Medical Billing and Insurance Coding<br>
+      Chula Vista, CA</p>
+    
+    
+    <hr>
+    <h2>Skillsy<//h2>
+
+</body>
+</html>
