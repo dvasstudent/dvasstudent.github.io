@@ -28,8 +28,9 @@ h2{
 }
 
 #title {
-    float: center:
+    float: center;
     width: 75%;
+    background-color: #763A8F;
     padding: 20px;
 }
 
