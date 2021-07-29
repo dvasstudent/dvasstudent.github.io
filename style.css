@@ -36,11 +36,11 @@ font-family: "Times New Roman", Times, serif;
 }
 #content {
     float: left;
-    width: 60%;
+    width: 75%;
     padding: 10px;
 }
 #skills {
     float: center;
-    width: 60%;
+    width: 75%;
     padding: 10px;
 }
