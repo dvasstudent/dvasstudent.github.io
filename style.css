@@ -10,23 +10,33 @@ body {
     
 }
 
-h1{ text-align: center; }
+h1{ text-align: center;
+font-family: "Times New Roman", Times, serif
+}
 
 h2{ text-align: center;
+    font-family: "Times New Roman", Times, serif
     border-top: solid #001;
     border-bottom: solid #001
 }
-h3{ text-align: center;}
+h3{ text-align: center;
+font-family: "Times New Roman", Times, serif;
+}
 
 #contact {
     float: center;
-    width 75%;
-    padding: 10px
+    width: 75%;
+    padding: 10px;
 }
 
 #objective {
-    float:right;
+    float:center;
     width: 75%;
-    padding: 10px
+    padding: 10px;
+}
+#content {
+    float: center;
+    width: 75%;
+    padding: 10px;
 }
 
