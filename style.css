@@ -15,6 +15,7 @@ h1{
      font-family: "Times New Roman", Times, serif
      border-top: solid #001;
      border-bottom: solid #001;
+     margin-center: 20px;
 }
 
 h2{ 
@@ -22,12 +23,7 @@ h2{
     font-family: "Times New Roman", Times, serif
     border-top: solid #001;
     border-bottom: solid #001;
-}
-h3{ 
-    text-align:center;
-    font-family: "Times New Roman", Times, serif;
-    border-top: solid #001;
-    border-bottom: solid #001;
+    margin-center: 20px;
 }
 
 #contact {
