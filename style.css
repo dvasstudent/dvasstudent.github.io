@@ -46,6 +46,13 @@ h3{
     width: 75%;
     padding: 10px;
 }
+
+#education {
+    float: center;
+    width: 75%
+    padding: 10px;
+}
+
 #skills {
     float: center;
     width: 75%;
