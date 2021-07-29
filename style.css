@@ -12,7 +12,8 @@ body {
 
 h1{  
      text-align:center;
-     font-family: "Times New Roman", Times, serif
+     font-family: "Times New Roman", Times, serif;
+     font-weight: normal;
      border-top: solid #001;
      border-bottom: solid #001;
      margin-center: 20px;
