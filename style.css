@@ -27,26 +27,32 @@ h2{
     margin-center: 20px;
 }
 
+#title {
+    float: center:
+    width: 75%;
+    padding: 20px;
+}
+
 #contact {
     float:center;
-    
+    width: 75%;
     padding: 20px;
 }
 
 #objective {
     float:center;
-   
+    width:75%;
     padding: 20px;
 }
 #content {
     float: left;
-
+    width: 75%;
     padding: 20px;
 }
 
 #education {
     float: center;
-  
+    width: 75%;
     padding: 20px;
 }
 
