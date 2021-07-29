@@ -39,7 +39,7 @@ h2{
     padding: 20px;
 }
 #content {
-    float: left;
+    text-align: left;
     width: 75%;
     padding: 20px;
 }
