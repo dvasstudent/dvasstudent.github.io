@@ -26,14 +26,7 @@ h2{
     border-bottom: solid #001;
     margin-center: 20px;
 }
-h3{ 
-    text-align:center;
-    font-weight: normal;
-    font-family: "Times New Roman", Times, serif;
-    border-top: solid #001;
-    border-bottom: solid #001;
-    margin-center: 20px;
-}
+
 #contact {
     float:center;
     width: 75%;
