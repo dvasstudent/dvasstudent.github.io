@@ -17,3 +17,16 @@ h2{ text-align: center;
     border-bottom: solid #001
 }
 h3{ text-align: center;}
+
+#contact {
+    float: center;
+    width 75%;
+    padding: 10px
+}
+
+#objective {
+    float:right;
+    width: 75%;
+    padding: 10px
+}
+
