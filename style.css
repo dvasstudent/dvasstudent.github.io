@@ -13,7 +13,6 @@ body {
 h1{  
      text-align:center;
      font-family: "Times New Roman", Times, serif;
-     font-weight: normal;
      border-top: solid #001;
      border-bottom: solid #001;
      margin-center: 20px;
@@ -21,6 +20,7 @@ h1{
 
 h2{ 
     text-align:center;
+    font-weight: normal;
     font-family: "Times New Roman", Times, serif;
     border-top: solid #001;
     border-bottom: solid #001;
