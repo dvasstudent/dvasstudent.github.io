@@ -1,17 +1,18 @@
 html {
-    padding 30px;
+    padding: 30px;
 }
 body {
     {background-color: rgb(50,168,82);}
+    text-align: center;
     font-family: "Times New Roman", Times, serif
-    padding 20px;
+    padding: 20px;
     margin-center: 20px;
     
 }
 
 h1{ text-align: center; }
 
-h2{ text-align; center;
+h2{ text-align: center;
     border-top: solid #001;
     border-bottom: solid #001
 }
