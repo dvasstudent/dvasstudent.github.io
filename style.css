@@ -35,12 +35,12 @@ font-family: "Times New Roman", Times, serif;
     padding: 10px;
 }
 #content {
-    float: center;
-    width: 75%;
+    float: left;
+    width: 60%;
     padding: 10px;
 }
 #skills {
     float: center;
-    width: 75%;
+    width: 60%;
     padding: 10px;
 }
