@@ -2,6 +2,10 @@ html {
     padding: 20px;
 }
 body {
+    border-style:dotted;
+    border-color: yellow;
+    border-width: 20px;
+    padding: 100px;
     background-color: darkseagreen;
     font-family: "Times New Roman", Times, serif;
     padding: 20px;
