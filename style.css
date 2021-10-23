@@ -6,7 +6,7 @@ body {
     border-color:teal;
     border-width: 10px;
     padding: 400px;
-    background-color: darkseagreen;
+    background-image: linear-gradient(70deg, darkseagreen, white);
     font-family: "Times New Roman", Times, serif;
     padding: 20px;
     animation-name: example;
@@ -19,8 +19,8 @@ body {
     to {background-color:lavender}
 }
 img {
-    transform: translate(200px);
-    
+    transform: translate(500px);
+    max-width: 50%;
 }
 img {
     opacity: 0.4;
@@ -64,7 +64,7 @@ a:hover {
     padding: 20px;
     transform: translate(800px);
     font-size: large;
-    font-style: italic;
+    font-style:italic;
 }
 
 #objective {
@@ -106,4 +106,19 @@ ul {
     border-color:snow;
     border-width: 5px;
 
+}
+a:link {
+    background-color: lightgoldenrodyellow;
+}
+a:vistied {
+    background-color:lightgreen;
+}
+a:hover {
+    background-color:lightskyblue;
+}
+a:active {
+    background-color:maroon;
+}
+p.highlight:hover {
+    background-color: lightgray;
 }
