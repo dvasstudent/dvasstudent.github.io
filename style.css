@@ -63,6 +63,7 @@ a:hover {
     padding: 20px;
     transform: translate(800px);
     font-size: large;
+    font-style: italic;
 }
 
 #objective {
