@@ -10,9 +10,9 @@ body {
     font-family: "Times New Roman", Times, serif;
     padding: 20px;
     margin-center: 20px;
-    animation-name example;
+    animation-name: example;
     animation-duration 2s;
-    animation-delay; 2s;
+    animation-delay: 2s;
           
 }
 @keyframes example {
