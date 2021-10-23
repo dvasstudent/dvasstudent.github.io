@@ -19,8 +19,8 @@ body {
     to {background-color:lavender}
 }
 img {
-    transform: translate(500px);
-    max-width: 50%;
+    transform: translate(250px);
+  
 }
 img {
     opacity: 0.4;
