@@ -19,7 +19,7 @@ body {
     to {background-color:lavender}
 }
 img {
-    transform: translate(400px);
+    transform: translate(200px);
     size-adjust: 200px;
 }
 img {
