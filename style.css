@@ -15,8 +15,8 @@ body {
           
 }
 @keyframes example {
-    from {background-color:turquoise;}
-    to {background-color:lavender;}
+    from {background-color:turquoise}
+    to {background-color:lavender}
 }
 img {
     transform: translate(500px);
@@ -45,7 +45,7 @@ h2{
     
 }
 a:hover {
-    color:honeydew;
+    color:honeydew
 }
 
 #title {
@@ -72,6 +72,17 @@ a:hover {
 }
 #content {
     float: left;
+    width: 97%;
+    padding: 20px;
+}
+#projects {
+    float: center;
+    width: 97%;
+    padding: 20px;
+}
+
+#experience {
+    float: center;
     width: 97%;
     padding: 20px;
 }
