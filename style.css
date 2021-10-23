@@ -15,8 +15,8 @@ body {
           
 }
 @keyframes example {
-    from {background-color:turquoise}
-    to {background-color:lavender}
+    from {background-color:turquoise;}
+    to {background-color:lavender;}
 }
 img {
     transform: translate(800px);
@@ -45,7 +45,7 @@ h2{
     
 }
 a:hover {
-    color:honeydew
+    color:honeydew;
 }
 
 #title {
