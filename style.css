@@ -19,7 +19,7 @@ body {
     to {background-color:lavender;}
 }
 img {
-    transform: translate(800px);
+    transform: translate(500px);
 }
 img {
     opacity: 0.4;
