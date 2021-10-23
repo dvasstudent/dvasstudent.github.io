@@ -19,7 +19,7 @@ body {
     to {background-color:lavender}
 }
 img {
-    transform: translate(250px);
+    transform: translate(85px);
   
 }
 img {
@@ -46,7 +46,7 @@ h2{
     
 }
 a:hover {
-    color:honeydew
+    color:honeydew;
 }
 
 #title {
