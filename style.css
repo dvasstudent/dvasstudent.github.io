@@ -20,7 +20,7 @@ body {
 }
 img {
     transform: translate(200px);
-    size-adjust: 200px;
+    max-width: 30%;
 }
 img {
     opacity: 0.4;
