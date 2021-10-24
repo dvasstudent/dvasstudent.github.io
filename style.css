@@ -15,8 +15,8 @@ body {
           
 }
 @keyframes example {
-    from {background-color:turquoise}
-    to {background-color:lavender}
+    from {background-color:turquoise;}
+    to {background-color:lavender;}
 }
 img {
     transform: translate(50px);
