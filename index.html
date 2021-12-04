@@ -2,32 +2,56 @@
   <head>
     <meta charset="UTF-8">
     <title> Desiree's Resume</title>
-    <link href="style.css" rel="Stylesheet" />
+    <link href="resumewk2.css" rel="Stylesheet" />
   </head>
   
   <Body>
-    <div id="title">
-    <h1><strong>Desiree MealeyVasquez</strong></h1>
-  </div>
-    <div id="contact">
-    <p><img src="PicMe.jpg" height="250"/></p>
-    <p> <strong>3836 Newton Ave<br>
-      San Diego, CA 92113<br>
-      714.402.8811<br>
-      dez_essc@yahoo.com</strong></p>
-    </div>        
-   
-    <div id="objective">   
-        
-   <h2><font size="6"><strong>Career Objective</strong></font></h2>
-   <p><font size="4">To secure an adventurous position within the technolgy industry where
-     my skills, education, and expertise can be utilized, as well as expanded.</font></p>
- </div>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Desiree Mealey-Vasquez</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="./PicMe.jpg" alt="..." /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                
+                    
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Desiree
+                        <span class="text-primary">Mealey-Vasquez</span>
+                    </h1>
+                    <div class="subheading mb-5">
+                        3836 Newton Ave San Diego, CA 92113·
+                        <a href="mailto:name@email.com">dez_essc@yahoo.com</a>
+                    </div>
+                    <p class="lead mb-5">Seeking to secure an adventurous position within the technolgy industry where
+     my skills, education, and expertise can be utilized, as well as expanded.</p>
+                </div>
+            </section>
 
+      <hr class="m-0" />
 </div> 
-<div id="skills">
-  <h2><font size="6"><strong>Technology and Professional Skills</strong></font></h2>
-  <ul>
+
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Skills</h2>
+                    <div class="subheading mb-3">Technology and Professional Skills</div>
+                    <ul class="fa-ul mb-0">
       <li>Networking (routers, switches, protocols)</li>
       <li>System administration and maintenance </li>
       <li>Topology configuration</li>
@@ -40,30 +64,38 @@
       <li>JavaScript frameworks (React)</li>
       <li>Project Development Life Cylce (PDKC)</li>
       <li>Java and Spring Boot</li>
-  </ul>
-</div>
+                 </ul>
+                </div>
+            </section>
+      <hr class="m-0" />
 
 
-    <div id="Projects">
-        <h2><font size="6"><strong>Projects</strong></font></h2>
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Pojects</h2>
         <p><strong>Design a Wireless Network</strong></p>
        <p>Design, simulate and present a wireless network tailored to a healthcare business. Developed analysis, QoS and security requirements, design and cost analysis in a proposal format.</p>
 
-        <p><strong>Penetration Assessment</strong>></p>
+        <p class="mb-0"><strong>Penetration Assessment</strong>></p>
         <p>Preformed a penetration test with a written report acknowledging findings of vulnerabilities. Acquiring targets and their operating systems and using Nmap for open ports to gain access to weaknesses within, gaining access to user logins. SQL injections allowed access to file extraction incorporating employee information.</p>
     
-        <p><strong>Address Book</strong></p>
+        <p class="mb-0"><strong>Address Book</strong></p>
         <p>Used Java 11 and best practices in coding to implement a project from conceptual phased and UML through testing and deployment.  Used OOP principles of Inheritance, Encapsulation, and Polymorphism in completing this project.</p>
-        
-    </div>
+               </div>
+            </section>
+            <hr class="m-0" />
 
- <div id="content">     
-   <h2><font size="6"><strong>Work History</strong></font></h2>
-    <p><strong>2017 - Present San Diego Retina Associates, San Diego, CA -
-      <em>Medical Biller</em></strong><br>
-   <p><font size="3">Follow link to<a href="https://sdretina.com/"> SDRA</a></font></p>
-  
-      <ul>
+
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Medical Biller</h3>
+                            <div class="subheading mb-3">San Diego Retina Associates, San Diego, CA -</div>
+ <p><font size="3">Follow link to<a href="https://sdretina.com/"> SDRA</a></font></p>
+                                <ul>
         <p><font size="3">*Accounts receivables</font></p>
         <p><font size="3">*Claims posting and processing to clearing house</font></p>
         <p><font size="3">*Posting insurance and patient payments into PM system</font></p>
@@ -74,10 +106,15 @@
         <p><font size="3">*Work various projects as assigned</font></p>
         <p><font size="3">*Communicate with Physicians, managers, clinic and all other departments</font></p>
         
-      </ul>
-     <p><strong>2011 - 2017 cCARE, San Diego, CA -
-      <em>Senior Billing Specialist</em></strong><br>
-   <p><font size="3">Follow link to<a href="https://ccare.com/"> cCARE</a></font></p>
+      </ul>>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2017 - Present </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Senior Billing Specialist</h3>
+                            <div class="subheading mb-3">cCARE, San Diego, CA -</div>
+                               <p><font size="3">Follow link to<a href="https://ccare.com/"> cCARE</a></font></p>
    
       <ul>
         <p><font size="3">*Claim entry for chemotherapy, radiation, urology, and radiology</font></p>
@@ -93,10 +130,14 @@
         <p><font size="3">*Work Accounts receivables</font></p>
         <p><font size="3">*Communicate with Physicians, managers, clinic and all other departments</font></p>
       </ul>
-   
-     <p><strong>2010 - 2011 United Cerebral Palsy, San Diego, CA -
-      <em>Personal Development Coach</em></strong><br>
-       <p><font size="3">Follow link to<a href="https://ucp.org/"> UCP</a></font></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2011 - 2017</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Personal Development Coach</h3>
+                            <div class="subheading mb-3">United Cerebral Palsy, San Diego, CA -</div>
+                              <p><font size="3">Follow link to<a href="https://ucp.org/"> UCP</a></font></p>
       <ul>
         <p><font size="3">*Support persons with physical and intellectual disabilities in the community</font></p>
         <p><font size="3">*Ensure documentaiton of daily activity and events</font></p>
@@ -104,43 +145,50 @@
         <p><font size="3">*Teach life skills, working skills, schedule management, and social interaction</font></p>
         <p><font size="3">*Assist in developing individuals goal plans</font></p>
         <p><font size="3">*Assist in any back-end edits necessary to develop clean processes</font></p>
-      </ul>  
+      </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
    
     </div> 
 
-    <div id="Experience">
-        <h2><font size="6"><strong>Experience</strong></font></h2>
-        <p><strong>2020 -- Grand Canyon University</strong></p>
-        <p><strong>Bachelor of Science in IT Cyber Security</strong></p>
-        <ul>
-            <li>Data encryption, awareness, ethical issues, policies, and procedures</li>
-            <li>Digital forensic investigation (controlled environment testing)</li>
-            <li>Database structure and relational applications</li>
-            <li>Administration and maintenance of systems</li>
-            <li>Project planning and management for global enterprise</li>
-            
-        </ul><br>
-        <p><strong>2021 -- Grand Canyon University</strong></p>
-        <p><strong>Certificate of Completion in Java Programing--2021</strong></p>
-        <ul>
-            <li>Developed applications utilizing Java11 and Object-Oriented Principles (OOP).</li>
-            <li>Planned classes-based application with methods, controls, variables, and branches.</li>
-            <li>Coded serialization persistence within an application to store data.</li>
-
-    </div>
-    
-    
-  <div id="education">
-   
-    <h2><font size="6"><strong>Education</strong></font></h2>
-    <p><a href="https://www.gcu.edu/degree-programs/bachelor-science-information-technology-cybersecurity"><strong>Grand Canyon University;</strong></a> Bachelors of Science Information Technology -
-      Phoenix, AZ 2020</p>
-    <p><a href="https://www.gcu.edu/degree-programs/java-programming-certificate"><strong>Grand Canyon University;</strong></a> Java Programming Boot-Camp -
-      Phoenix, AZ 2021 - Current</p>
-    <p><a href="https://www.uei.edu/trade-school-programs/medical-billing-insurance-coding/"><strong>UEI College;</strong></a> Medical Billing and Insurance Coding -
-      Chula Vista, CA 2011</p>
-    
-
-    
-  </body>
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+           <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Grand Canyon University</h3>
+                            <div class="subheading mb-3">Java Programming Bootcamp </div>
+                            <div>Programming</div>
+                            <p>GPA: 3.80</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2021 - December 2021</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Grand Canyon University</h3>
+                            <div class="subheading mb-3">Bachelor of Science </div>
+                            <div>Computer Science in IT Cyber Security</div>
+                            <p>GPA: 3.96</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">May 2017 - August 2020</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">El Dorado High School</h3>
+                            <div class="subheading mb-3">Placentia, CA</div>
+                            <p>GPA: 3.56</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 1999 - May 2004</span></div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <footer class="bg-dark text-white-50 text-center mt-5 p-3"></footerclass> - <a href="https://startbootstrap.com/theme/resume" class="text-white-50">Reference to Example</a></footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
 </html>
